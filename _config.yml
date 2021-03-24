@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 title: Sigma Technologie
 description: The IT professionals.
 github:
-  is_project_page: false;
-show_downloads: false;
+  is_project_page: false
+show_downloads: false
