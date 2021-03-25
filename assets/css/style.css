@@ -1,11 +1,7 @@
----
----
-
-@import "{{ site.theme }}";
-
 html,
 body
 {
+    color: #FFFFFF;
     height: auto;
 }
 
