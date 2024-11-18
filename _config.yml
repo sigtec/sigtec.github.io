@@ -1,0 +1,9 @@
+title: My Blog
+description: A blog powered by Jekyll
+theme: minima
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://sigtec.github.io" # Replace with your GitHub Pages URL
+
+# Plugins
+plugins:
+  - jekyll-feed
